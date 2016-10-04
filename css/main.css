@@ -107,8 +107,8 @@ main {
   padding-top: 1em;
 }
 
-.photobg {
-  background-image: url("../images/photobg.jpg");
+.photobg2 {
+  background-image: url("../images/photobg2.jpg");
   height: 100%;
   background-size: cover;
   padding-top: 3em;
@@ -135,6 +135,12 @@ main {
 .nav {
   margin: 0;
   background-color: white;
+}
+
+.nav1 {
+  margin: 0;
+  background-color: white;
+  border-bottom: 8px solid #1eaefa;
 }
 
 .wrapper {
@@ -169,6 +175,16 @@ h4 {
 }
 
 .nav a {
+  display: inline-block;
+  color: #1eaefa;
+}
+
+.nav1 li {
+  display: inline-block;
+  width: 15%;
+}
+
+.nav1 a {
   display: inline-block;
   color: #1eaefa;
 }
