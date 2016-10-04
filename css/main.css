@@ -142,6 +142,7 @@ main {
 .nav {
   margin: 0;
   background-color: white;
+  padding-bottom: 0.5em;
 }
 
 .nav1 {
