@@ -110,6 +110,10 @@ h5 {
   transform: scale(1.25);
 }
 
+.logo {
+  width: 5.25%;
+}
+
 main {
   padding-top: 1em;
 }
