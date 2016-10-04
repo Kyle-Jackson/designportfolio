@@ -33,16 +33,6 @@ header {
 background-color: white;
 }
 
-.me {
-  width: 20%;
-  border-radius: 200px;
-  height: auto;
-  margin-left: 40%;
-  margin-right: 40%;
-  margin-top: 10%;
-
-}
-
 h1 {
   text-align: center;
   color: white;
@@ -97,6 +87,14 @@ h2 {
 
 h5 {
   color: #1eaefa;
+}
+
+.footerh5 {
+  margin: 0.25em;
+}
+
+.abouttext {
+  color: black;
 }
 
 .svg {
@@ -258,12 +256,6 @@ img {
 
 @media only screen and (min-width: 37em) {
 
-
-  .me {
-      margin-top: 4%;
-      border-radius: 80px;
-  }
-
 }
 
 @media only screen and (min-width: 43em) {
@@ -271,13 +263,6 @@ img {
   html {
     font-size: 120%;
     line-height: 1.5;
-  }
-
-  .me {
-    display: inline-block;
-    vertical-align: middle;
-    margin: 2em;
-    width: 12%;
   }
 
   .head {
@@ -305,11 +290,6 @@ img {
     html {
       font-size: 130%;
       line-height: 1.6;
-    }
-
-    .me {
-      margin-bottom: 2em;
-      margin-left: 6em;
     }
 
     .img {
@@ -357,12 +337,6 @@ img {
 
       .head {
         padding: 0em;
-      }
-
-      .me {
-        display: inline-block;
-        width: 25%;
-        margin: 1em;
       }
 
       h1 {
