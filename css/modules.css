@@ -394,7 +394,6 @@ svg {
   display: inline-block;
   padding: 0.375em 0.75em 0.42em;
   border-radius: 8px;
-  border: 2px solid #1eaefa;
   color: #1eaefa;
   text-align: center;
   margin: auto;
@@ -402,7 +401,7 @@ svg {
 
 .btn:hover {
   background-color: #1eaefa;
-  color: #fff;
+  color: white;
 }
 
 .btn--light {

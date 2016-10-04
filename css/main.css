@@ -67,8 +67,9 @@ h1 {
 
 p {
   text-align: left;
-  color: black;
+  color: white;
   padding: 0;
+  font-weight: 400;
 }
 
 footer {
@@ -80,7 +81,9 @@ footer {
 }
 
 a {
-  color: #1eaefa;
+  color: white;
+  text-decoration: none;
+  font-weight: 400;
 }
 
 h2 {
@@ -164,7 +167,7 @@ nav {
 }
 
 h4 {
-  color: black;
+  color: white;
   text-align: center;
 
 }
@@ -198,68 +201,8 @@ ul {
   margin: 0;
 }
 
-a {
-  text-decoration: none;
-  color: #1eaefa;
-}
-
 img {
   width: 100%;
-}
-
-.sky {
-  width: 100%;
-  height: auto;
-  transition: all .2s ease-in-out;
-  display: block;
-  padding: 0 0.1em;
-}
-
-.sky:hover {
-  -webkit-transform: scale(1.2);
-  transform: scale(1.2);
-}
-
-.bro {
-  width: 100%;
-  height: auto;
-  transition: all .2s ease-in-out;
-  display: block;
-  padding: 0 0.1em;
-}
-
-.bro:hover {
-  -webkit-transform: scale(1.2);
-  transform: scale(1.2);
-}
-
-.boo {
-  width: 100%;
-  height: auto;
-  transition: all .2s ease-in-out;
-  display: block;
-  padding: 0 0.1em;
-}
-
-.boo:hover {
-  -webkit-transform: scale(1.2);
-  transform: scale(1.2);
-}
-
-.imgs a {
-  display: block;
-}
-
-.imgs {
-  margin: 0;
-  list-style-type: none;
-  text-align: center;
-  padding: 1.25em 0;
-}
-
-.imgs li {
-  display: inline-block;
-  width: 30%;
 }
 
 .photo1 {
