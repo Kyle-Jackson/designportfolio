@@ -76,6 +76,10 @@ a {
   font-weight: 400;
 }
 
+.footbut:hover {
+  background-color: white;
+}
+
 .mail {
   color: #1eaefa;
 }
