@@ -88,6 +88,16 @@ a {
   color: black;
 }
 
+iframe {
+  margin: auto;
+  text-align: center;
+}
+
+.thumb:hover {
+  color: white;
+  opacity: 0.5;
+}
+
 .copyright {
   color: #1eaefa;
 }
