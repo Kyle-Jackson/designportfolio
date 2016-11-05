@@ -84,6 +84,10 @@ a {
   color: #1eaefa;
 }
 
+.mail:hover {
+  color: black;
+}
+
 .copyright {
   color: #1eaefa;
 }
