@@ -39,6 +39,10 @@ h1 {
   margin: 0;
 }
 
+.hide {
+  display: none;
+}
+
 .title {
   background-image: url("../images/mainbg.jpg");
   height: 100%;
@@ -89,8 +93,9 @@ a {
 }
 
 iframe {
-  margin: auto;
-  text-align: center;
+  width: 720px;
+  height: 405px;
+  position: relative;
 }
 
 .thumb:hover {
@@ -132,10 +137,6 @@ h5 {
 
 .logo {
   width: 5.25%;
-}
-
-main {
-  padding-top: 1em;
 }
 
 .photobg2 {
