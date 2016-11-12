@@ -93,8 +93,8 @@ a {
 }
 
 iframe {
-  width: 720px;
-  height: 405px;
+  width: 100%;
+  height: auto;
   position: relative;
 }
 
@@ -160,8 +160,13 @@ h5 {
   padding-top: 3em;
 }
 
+.desc {
+  color: black;
+}
+
 .container {
-  min-height: 174px
+  align-items: stretch;
+  height: 100%;
 }
 
 .nav {
@@ -180,12 +185,6 @@ h5 {
    justify-content: center;
    border-top: 8px solid #1eaefa;
    padding-top: 0;
-}
-
-.btn {
-  margin-bottom: 2em;
-  background-color: white;
-  margin-left: 5.5em;
 }
 
 nav {
@@ -289,10 +288,6 @@ a:hover {
 
 }
 
-@media only screen and (min-width: 37em) {
-
-}
-
 @media only screen and (min-width: 43em) {
 
   html {
@@ -318,6 +313,21 @@ a:hover {
 
   .img {
     width: 70%;
+  }
+
+  .photobg2 {
+    width: 33%%;
+    height: auto;
+  }
+
+  .motionbg {
+    width: 33%%;
+    height: auto;
+  }
+
+  .uiuxbg {
+    width: 33%%;
+    height: auto;
   }
 }
   @media only screen and (min-width: 56em) {
