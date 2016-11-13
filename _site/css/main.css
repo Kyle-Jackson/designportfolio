@@ -113,12 +113,11 @@ iframe {
 }
 
 .thumb {
-max-width: 300px;
+  max-width: 1000px;
 }
 
-.thumb:hover {
-  color: white;
-  opacity: 0.5;
+.thumb2 {
+  max-width: 464px;
 }
 
 .copyright {
@@ -131,7 +130,7 @@ max-width: 300px;
 }
 
 .show {
-  display: inline-block;
+  display: block;
   width: 100%;
 }
 
@@ -271,8 +270,8 @@ a:hover {
 }
 
 .photo1 {
-  width: 300px;
-  height: 300px;
+  width: 900px;
+  height: auto;
   background-color: grey;
 }
 
