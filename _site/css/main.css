@@ -240,12 +240,14 @@ h4 {
 
 .nav1 li {
   display: inline-block;
-  width: 15%;
+  width: 100%;
 }
 
 .nav1 a {
   display: inline-block;
   color: #1eaefa;
+  padding-left: 30%;
+  padding-right: 30%;
 }
 
 li {
@@ -315,7 +317,7 @@ a:hover {
 
 }
 
-@media only screen and (min-width: 43em) {
+@media only screen and (min-width: 41em) {
 
   html {
     font-size: 120%;
@@ -355,6 +357,16 @@ a:hover {
   .uiuxbg {
     width: 33%%;
     height: auto;
+  }
+
+  .nav1 li {
+    display: inline-block;
+    width: 15%;
+  }
+
+  .nav1 a {
+    padding-left: 0;
+    padding-right: 0;
   }
 }
   @media only screen and (min-width: 56em) {
