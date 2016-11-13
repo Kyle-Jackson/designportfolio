@@ -70,7 +70,15 @@ section:nth-child(5) {
   text-align: center;
   color: white;
   font-weight: 300;
+}
 
+.thumb{
+  max-width: 300px;
+}
+
+.thumb:hover{
+  color: white;
+  opacity: 0.5;
 }
 
 p {
