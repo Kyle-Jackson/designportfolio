@@ -76,6 +76,13 @@ section:nth-child(5) {
   max-width: 300px;
 }
 
+.me {
+  max-width: 300px;
+  width: 100%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
 .thumb:hover{
   color: white;
   opacity: 0.5;
@@ -330,7 +337,7 @@ a:hover {
 
 }
 
-@media only screen and (min-width: 41em) {
+@media only screen and (min-width: 43em) {
 
   html {
     font-size: 120%;
