@@ -39,8 +39,22 @@ h1 {
   margin: 0;
 }
 
+.btn-show-hide {
+  border: none;
+  padding: 0;
+}
+
 .hide {
   display: none;
+}
+
+section {
+  overflow: hidden;
+  position: relative;
+}
+
+section:nth-child(5) {
+  border: 0;
 }
 
 .title {
@@ -98,6 +112,10 @@ iframe {
   position: relative;
 }
 
+.thumb {
+max-width: 300px;
+}
+
 .thumb:hover {
   color: white;
   opacity: 0.5;
@@ -105,6 +123,16 @@ iframe {
 
 .copyright {
   color: #1eaefa;
+}
+
+.photoprev {
+  display: flex;
+  justify-content: center;
+}
+
+.show {
+  display: inline-block;
+  width: 100%;
 }
 
 h2 {
