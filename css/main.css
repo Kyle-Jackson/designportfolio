@@ -106,6 +106,10 @@ footer {
   background-color: white;
 }
 
+.bottomborder {
+  border-top: 8px solid #1eaefa;
+}
+
 a {
   color: white;
   text-decoration: none;
