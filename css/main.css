@@ -104,7 +104,6 @@ footer {
   padding: 1em 0;
   font-family: 'Open Sans', sans-serif;
   background-color: white;
-  border-top: 8px solid #1eaefa;
 }
 
 a {
@@ -312,7 +311,6 @@ a:hover {
 }
 
 .main {
-  border-bottom: 8px solid #1eaefa;
   border-top: 8px solid #1eaefa;
   background-size: cover;
 }
