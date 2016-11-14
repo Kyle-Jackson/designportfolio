@@ -421,6 +421,14 @@ a:hover {
     font-size: 140%;
     line-height: 1.7;
   }
+}
+
+@media only screen and (min-width: 86em) {
+
+  .logo {
+    width: 6%;
+  }
+
 
     @media print {
 
