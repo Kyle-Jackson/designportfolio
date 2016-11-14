@@ -72,8 +72,12 @@ section:nth-child(5) {
   font-weight: 300;
 }
 
-.thumb{
+.thumb {
   max-width: 300px;
+}
+
+.phonemock {
+  max-width: 267px;
 }
 
 .me {
