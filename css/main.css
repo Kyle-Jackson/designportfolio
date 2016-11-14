@@ -210,7 +210,7 @@ h5 {
 }
 
 .desc {
-  color: black;
+  color: white;
 }
 
 .container {
@@ -232,7 +232,7 @@ h5 {
 
 .wrapper {
    justify-content: center;
-   border-top: 8px solid #1eaefa;
+   border-top: 8px solid white;
    padding-top: 0;
 }
 
