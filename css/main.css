@@ -319,6 +319,26 @@ a:hover {
   background-size: cover;
 }
 
+.lightblue {
+  color: #2dbbf6;
+}
+
+.white {
+  color: white;
+}
+
+.black {
+  color: black;
+}
+
+.grey {
+  color: #ececec;
+}
+
+.blue {
+  color: #1eaefa;
+}
+
 @media only screen and (min-width: 31em) {
 
   html {
