@@ -284,6 +284,19 @@ ul {
   margin: 0;
 }
 
+.s404 {
+  text-align: center;
+}
+
+.logo404 {
+  max-width: 150px;
+  padding-bottom: 2em;
+}
+
+.border-bottom-blue {
+  border-bottom: 8px solid #1eaefa;
+}
+
 img {
   width: 100%;
 }
