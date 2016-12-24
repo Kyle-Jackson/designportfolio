@@ -9,7 +9,7 @@ html {
   background-color: white;
   font-weight: lighter;
   font-family: 'Open Sans', sans-serif;
-  color: #1eaefa;
+  color: black;
 }
 
 *, *::before, *::after {
@@ -58,7 +58,7 @@ section:nth-child(5) {
 }
 
 .title {
-  background-image: url("http://i63.tinypic.com/2wej9s3.jpg");
+  background-image: url("http://i68.tinypic.com/o9mjqq.jpg");
   height: 100%;
   background-size: cover;
   margin: 0;
@@ -107,7 +107,7 @@ footer {
 }
 
 .bottomborder {
-  border-top: 8px solid #1eaefa;
+  border-top: 8px solid black;
 }
 
 a {
@@ -121,7 +121,7 @@ a {
 }
 
 .mail {
-  color: #1eaefa;
+  color: black;
 }
 
 .mail:hover {
@@ -157,12 +157,12 @@ iframe {
 }
 
 h2 {
-  color: #1eaefa;
+  color: black;
   margin-top: 0;
 }
 
 h5 {
-  color: #1eaefa;
+  color: black;
 }
 
 .footerh5 {
@@ -192,21 +192,21 @@ h5 {
 }
 
 .photobg2 {
-  background-image: url("http://i64.tinypic.com/a9mv7a.jpg");
+  border-left: 0px solid black;
   height: 100%;
   background-size: cover;
   padding-top: 3em;
 }
 
 .motionbg {
-  background-image: url("http://i65.tinypic.com/sy8do6.jpg");
+  border-right: 0px solid black;
   height: 100%;
   background-size: cover;
   padding-top: 3em;
 }
 
 .uiuxbg {
-  background-image: url("http://i64.tinypic.com/2q81rw2.jpg");
+  border-right: 0px solid black;
   height: 100%;
   background-size: cover;
   padding-top: 3em;
@@ -230,13 +230,15 @@ h5 {
 .nav1 {
   margin: 0;
   background-color: white;
-  border-bottom: 8px solid #1eaefa;
+  border-bottom: 8px solid black;
 }
 
 .wrapper {
    justify-content: center;
-   border-top: 8px solid white;
+   border-top: 8px solid black;
    padding-top: 0;
+   border-bottom: 8px solid black;
+
 }
 
 nav {
@@ -248,7 +250,7 @@ nav {
 }
 
 h4 {
-  color: white;
+  color: black;
   text-align: center;
 
 }
@@ -260,7 +262,7 @@ h4 {
 
 .nav a {
   display: inline-block;
-  color: #1eaefa;
+  color: black;
 }
 
 .nav1 li {
@@ -270,7 +272,7 @@ h4 {
 
 .nav1 a {
   display: inline-block;
-  color: #1eaefa;
+  color: black;
   padding-left: 30%;
   padding-right: 30%;
 }
@@ -294,7 +296,7 @@ ul {
 }
 
 .border-bottom-blue {
-  border-bottom: 8px solid #1eaefa;
+  border-bottom: 8px solid black;
 }
 
 img {
@@ -302,7 +304,7 @@ img {
 }
 
 ul li:hover {
-  background-color: #1eaefa;
+  background-color: black;
 }
 
 a:hover {
@@ -328,7 +330,7 @@ a:hover {
 }
 
 .main {
-  border-top: 8px solid #1eaefa;
+  border-top: 8px solid black;
   background-size: cover;
 }
 
@@ -349,7 +351,7 @@ a:hover {
 }
 
 .blue {
-  color: #1eaefa;
+  color: black;
 }
 
 @media only screen and (min-width: 31em) {

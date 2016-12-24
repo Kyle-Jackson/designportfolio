@@ -395,8 +395,9 @@ svg {
   align-items: center;
   justify-content: center;
   padding: 0.375em 0.75em 0.42em;
+  border: 3px solid black;
   border-radius: 8px;
-  color: #1eaefa;
+  color: black;
   text-align: center;
   margin: 0 2em;
   margin-bottom: 2em;
@@ -405,7 +406,7 @@ svg {
 }
 
 .btn:hover {
-  background-color: #1eaefa;
+  background-color: black;
   color: white;
 }
 
@@ -432,9 +433,9 @@ svg {
   display: inline-block;
   padding: 0.375em 0.75em 0.42em;
   border-radius: 8px;
-  color: #1eaefa;
+  color: black;
   background-color: white;
-  border: 2px solid #1eaefa;
+  border: 2px solid black;
   text-align: center;
   margin: auto;
 }
@@ -444,10 +445,10 @@ svg {
   padding: 0.375em 0.75em 0.42em;
   border-radius: 8px;
   color: white;
-  background-color: #1eaefa;
+  background-color: black;
   text-align: center;
   margin: auto;
-  border: 2px solid #1eaefa;
+  border: 2px solid black;
 }
 
 .embed {
