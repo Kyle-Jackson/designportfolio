@@ -67,6 +67,10 @@ section:nth-child(5) {
   padding-bottom: 9em;
 }
 
+.arrow {
+  text-align: center;
+}
+
 .caption {
   text-align: center;
   color: white;
