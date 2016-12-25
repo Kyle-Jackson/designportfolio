@@ -58,7 +58,7 @@ section:nth-child(5) {
 }
 
 .title {
-  background-image: url("http://i68.tinypic.com/o9mjqq.jpg");
+  background-image: url({{site.baseurl}}/images/motionbg.gif);
   height: 100%;
   background-size: cover;
   margin: 0;
