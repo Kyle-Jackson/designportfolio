@@ -58,7 +58,7 @@ section:nth-child(5) {
 }
 
 .title {
-  background-image: url({{site.baseurl}}/images/motionbg.gif);
+  background-image: url({{site.baseurl}}/images/motionbg2.gif);
   color: black;
   height: 100%;
   background-size: cover;
